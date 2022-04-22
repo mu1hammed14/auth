@@ -10,7 +10,7 @@
         </section >
     </div>
     <section class="content">
-        <h1>Tis is  dash </h1>
+        <h1>This is  dash </h1>
 
     </section>
 @endsection
