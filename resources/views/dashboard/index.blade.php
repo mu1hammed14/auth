@@ -1,4 +1,4 @@
-@extends('layouts.dashboard.app')
+@extends('layouts.dashboard.argon')
 @section('content')
     <div class="content-wrapper">
         <section class="content-header">
